@@ -1,0 +1,23 @@
+.project-create-container {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 5px;
+}
+.project-name-input {
+  flex: 1;
+}
+
+.project-txt {
+  padding: 0px 10px;
+  cursor: pointer;
+}
+
+.timer {
+  padding: 0px 10px;
+}
+
+.start-btn {
+  padding: 3px 10px;
+  background-color: lightblue;
+}

@@ -1,0 +1,9 @@
+.project-list-container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.project-list-items {
+  margin-top: 100px;
+}
